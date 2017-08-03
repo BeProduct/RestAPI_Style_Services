@@ -1,5 +1,5 @@
-# BeProduct RESTful API for Styles
-C# libraries for BeProduct Styles
+# BeProduct RESTful API using Tokens
+C# libraries for BeProduct Styles using refresh tokens
 
 # Documentation
 Please visit the [https://developers.beproduct.com/](https://developers.beproduct.com/)
