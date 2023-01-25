@@ -1,6 +1,3 @@
-# BeProduct RESTful API using Tokens
-C# libraries for BeProduct Styles using refresh tokens
-
 # This project has been deprecated and is no longer maintained.
 
 We recommend that you use the updated version of this project, which can be found at the link below:
@@ -13,6 +10,8 @@ If you have any questions or concerns, please contact BeProduct support.
 
 Thank you for your understanding.
 
+# BeProduct RESTful API using Tokens
+C# libraries for BeProduct Styles using refresh tokens
 
 # Usage Example
 This project is dependent on:
